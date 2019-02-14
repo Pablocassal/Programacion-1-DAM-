@@ -1,4 +1,4 @@
-/* Este programa calcula los datos de "x" e "y" pedidos por el ejercicio 1.3  */
+/* prueba git Este programa calcula los datos de "x" e "y" pedidos por el ejercicio 1.3  */
 
 #include <iostream>
 
